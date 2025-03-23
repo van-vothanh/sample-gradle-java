@@ -1,0 +1,3 @@
+rootProject.name = 'todo-gradle'
+include 'todo-contract'
+include 'todo-api'
