@@ -4,8 +4,8 @@ allprojects {
     group = 'com.example'
     version = '1.0-SNAPSHOT'
 
-    sourceCompatibility = 1.8
-    targetCompatibility = 1.8
+    sourceCompatibility = 21
+    targetCompatibility = 21
 
     repositories {
         mavenCentral()
