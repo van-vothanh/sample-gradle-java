@@ -3,7 +3,7 @@ package com.example.todo.api;
 import com.example.todo.model.Todo;
 import org.junit.Before;
 import org.junit.Test;
-import javax.ws.rs.WebApplicationException;
+import jakarta.ws.rs.WebApplicationException;
 import java.util.List;
 import static org.junit.Assert.*;
 
